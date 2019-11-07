@@ -1,27 +1,3 @@
-# y
-
-> y
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-
-
 # 九博报饭系统 [本地项目地址](http://localhost:8080/#/login)
 
 # 准备用 vue + nodejs + express + mysql 去实现
